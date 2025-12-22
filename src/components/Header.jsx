@@ -1,6 +1,6 @@
 function Header () {
   return (
-    <header style={{backgroundColor: "282c34", padding: "20px", color: "white"}}>
+    <header>
       <h1>Привет, React</h1>
     </header>
     

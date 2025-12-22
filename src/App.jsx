@@ -5,9 +5,7 @@ function App() {
   return (
     <div>
       <Header />
-      <main style={{ padding: "20px"}}>
         <p>Это первый проект на React + Vite</p>
-      </main>
       <Footer />
     </div>
   )
